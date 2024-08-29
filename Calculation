@@ -1,5 +1,5 @@
 public int add(int [] a ) {
-
+HII
 int val = 0 ; 
 for(int i ; i < a.size() ; i++){
 val = val + a[i];
